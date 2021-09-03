@@ -8,6 +8,7 @@ public class TestGit {
     public static void main(String[] args) {
         System.out.println(1111111);
         System.out.println("master...");
+        System.out.println("hotfix...");
         System.out.println("master2...");
     }
 }
