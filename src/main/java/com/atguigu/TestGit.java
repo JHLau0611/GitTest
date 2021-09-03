@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("master...");
         System.out.println("hotfix...");
         System.out.println("master2...");
+        System.out.println("masert更新代码到github");
     }
 }
